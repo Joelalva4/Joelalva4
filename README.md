@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Joelalva4
+- 👀 I’m interested in building interesting projects
+- 🌱 I’m currently learning CS50
+- 💞️ I’m looking to collaborate on exciting new projects
+- 📫 How to reach me : alvajoel@ymail.com
